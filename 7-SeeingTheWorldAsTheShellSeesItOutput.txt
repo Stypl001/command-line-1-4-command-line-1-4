@@ -1,3 +1,6 @@
+# Concepts addressed:
+(Prompt, Parameter, Argument)
+
 Last login: Thu Mar  7 14:01:15 on ttys000
 
 grnq61-82:~ stypl001$ echo this is a test
